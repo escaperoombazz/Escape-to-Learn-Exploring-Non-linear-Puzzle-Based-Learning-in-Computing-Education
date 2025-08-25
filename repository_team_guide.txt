@@ -77,7 +77,7 @@ B. Make your changes:
    Edit files, create new ones, etc.
 
 C. Stage and commit:
-   git add .
+   git add . (add single file use: git add <name of file> e.g. (git add repository_team_guide.txt)
    git commit -m "Short description of your changes"
 
 D. Push to GitHub:
