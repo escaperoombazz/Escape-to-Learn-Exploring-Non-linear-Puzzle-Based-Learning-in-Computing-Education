@@ -78,3 +78,16 @@ Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, th
 **Core commitment (must-do):** ~20–25 hrs across one academic year  
 **Extended commitment (with co-authorship and toolkit work):** ~25–35 hrs  
 
+# Sign Up and Complete Form
+
+Using QR  
+![RiPPASignupFormQR](RiPPASignupFormQR.png)  
+[Signup Form](https://forms.office.com/e/201LvG4Gfc)
+
+# More Information
+For any questions, contact  
+1. Salma ElSayed - s.elsayed@abertay.ac.uk  
+2. Marwan Mohammed - m.mohammed@abertay.ac.uk
+
+
+
