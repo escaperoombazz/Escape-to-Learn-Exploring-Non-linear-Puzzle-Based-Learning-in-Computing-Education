@@ -1,0 +1,114 @@
+🚀 Team Guide: Using the Repository
+=================================
+
+This guide explains how to set up your GitHub access, clone the repo, and contribute as part of the group.
+
+---------------------------------
+1. Get Access to the Repo
+---------------------------------
+1. The repo owner (escaperoombazz) will invite you as a collaborator.
+2. You’ll get an email or GitHub notification. Accept the invitation.
+
+---------------------------------
+2. Setup SSH (One Time per Computer)
+---------------------------------
+Each member must create their own SSH key and link it to GitHub.
+
+1. Generate a new SSH key:
+   ssh-keygen -t ed25519 -C "your_email@example.com"
+
+   - Press Enter to accept the default location (~/.ssh/id_ed25519).
+   - You may set a passphrase (or press Enter to skip).
+
+2. Start the SSH agent and add your key:
+   eval $(ssh-agent -s)
+   ssh-add ~/.ssh/id_ed25519
+
+3. Copy your public key:
+   cat ~/.ssh/id_ed25519.pub
+
+   Copy the full line (starts with ssh-ed25519).
+
+4. Add your key to GitHub:
+   - Go to GitHub → Settings → SSH and GPG Keys → New SSH Key
+   - Paste the copied key.
+
+Reference: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+---------------------------------
+3. Clone the Repository
+---------------------------------
+Once your key is added, clone the repo using SSH:
+
+   git clone git@github.com:escaperoombazz/Escape-to-Learn-Exploring-Non-linear-Puzzle-Based-Learning-in-Computing-Education.git
+   cd Escape-to-Learn-Exploring-Non-linear-Puzzle-Based-Learning-in-Computing-Education
+
+---------------------------------
+4. Configure Git (One Time)
+---------------------------------
+Set your name and email so your commits show correctly:
+
+   git config --global user.name "Your Name"
+   git config --global user.email "your_email@example.com"
+
+---------------------------------
+5. Ensure Remote Uses SSH (One Time)
+---------------------------------
+If you cloned using HTTPS by mistake, switch to SSH with:
+
+   git remote set-url origin git@github.com:escaperoombazz/Escape-to-Learn-Exploring-Non-linear-Puzzle-Based-Learning-in-Computing-Education.git
+
+Check your remotes with:
+
+   git remote -v
+
+You should see:
+
+   origin  git@github.com:escaperoombazz/Escape-to-Learn-Exploring-Non-linear-Puzzle-Based-Learning-in-Computing-Education.git (fetch)
+   origin  git@github.com:escaperoombazz/Escape-to-Learn-Exploring-Non-linear-Puzzle-Based-Learning-in-Computing-Education.git (push)
+
+---------------------------------
+6. Daily Workflow
+---------------------------------
+A. Sync before working:
+   git pull origin main
+
+B. Make your changes:
+   Edit files, create new ones, etc.
+
+C. Stage and commit:
+   git add .
+   git commit -m "Short description of your changes"
+
+D. Push to GitHub:
+   git push origin main
+
+---------------------------------
+7. Handling Merge Conflicts
+---------------------------------
+If you see conflicts after git pull:
+1. Open the file → look for markers like <<<<<<<, =======, >>>>>>>.
+2. Choose the correct version (or merge them manually).
+3. Save the file and run:
+
+   git add conflicted_file.ext
+   git commit -m "Resolved merge conflict"
+   git push origin main
+
+---------------------------------
+8. Team Rules
+---------------------------------
+- Always git pull before starting work.
+- Use clear commit messages (e.g., Added puzzle logic, Updated README).
+- Do NOT share your private SSH key.
+- Coordinate if multiple people work on the same file.
+
+---------------------------------
+Helpful Links
+---------------------------------
+- GitHub Docs – Connecting to GitHub with SSH:
+  https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+- Atlassian – Git Team Workflows:
+  https://www.atlassian.com/git/tutorials/comparing-workflows
+- GitHub Docs – Switching remote URLs from HTTPS to SSH:
+  https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh
