@@ -9,7 +9,7 @@ Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, th
 
 ---
 
-[Examples](ER%20Examples/index.md)
+[Examples](https://github.com/escaperoombazz/Escape-to-Learn-Exploring-Non-linear-Puzzle-Based-Learning-in-Computing-Education/blob/main/ER%20examples/index.md)
 
 # 📅 Detailed Timeline and Workload
 
