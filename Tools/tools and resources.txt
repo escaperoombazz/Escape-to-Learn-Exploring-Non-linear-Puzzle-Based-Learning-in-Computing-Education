@@ -1,0 +1,49 @@
+
+hubs/conference/groups
+
+https://teachinginhighered.com/podcast/playful-learning-and-virtual-escape-rooms/
+https://activelearninggroup.wordpress.com/active-learning-resource-hub/
+https://www.liverpool.ac.uk/centre-for-innovation-in-education/conferences/islands-of-innovation/
+https://sway.cloud.microsoft/dBH1eNA9SEIxoRig?ref=Link
+https://lta.hw.ac.uk/escape-rooms-in-education-showcase/
+
+samples
+
+https://dataschools.education/escape/
+https://uofsussex.padlet.org/kpiatt5/1-cyber-security-escape-room-islands-of-innovation-cgtsabq7hb16i6rk
+https://hwuniversity.padlet.org/LTA_HWU/escape-rooms-in-education-showcase-2025-yvus3l5y6kvc74cj
+https://durhamuniversity-my.sharepoint.com/personal/kfqn12_durham_ac_uk/_layouts/15/Doc.aspx?sourcedoc={21e52331-5506-4b2f-a714-4a5f3762fc31}&action=view&wd=target%28Welcome.one%7Cebf38b8e-b8d3-cd43-afd1-a6a46141634a%2FWelcome%7C19c33983-8548-5542-b1dd-8ba52c1e7f6c%2F%29&wdorigin=NavigationUrl
+https://hwuniversity.padlet.org/LTA_HWU/escape-rooms-in-education-showcase-2025-yvus3l5y6kvc74cj
+https://www.youtube.com/playlist?list=PLPfbdVlOyO6fRfoHa4-rrQVAcb5CwMtWY
+https://www.becauseplaymatters.com/escapeif (low-resource escape rooms for classroom)
+https://norovirus.wixstudio.com/norovirus-escape
+https://www.immergency.co/
+
+assignment ideas
+http://nifty.stanford.edu/
+
+
+some tools
+
+Online jigsaw puzzle creator
+https://puzzel.org/en
+https://www.jigsawplanet.com/
+https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/
+
+Morse code translator
+https://morsecodetranslator.com/
+https://morsecode.world/international/translator.html
+
+digital stories
+https://genially.com/
+
+free open source tool for creating online resources
+https://xerte.org.uk/index.php/en/
+
+shift cipher
+https://www.dcode.fr/caesar-cipher
+https://cryptii.com/pipes/caesar-cipher 
+https://www.rapidtables.com/convert/number/binary-to-ascii.html
+
+on-screen timers gif
+https://timertopia.wordpress.com/new-timers/
