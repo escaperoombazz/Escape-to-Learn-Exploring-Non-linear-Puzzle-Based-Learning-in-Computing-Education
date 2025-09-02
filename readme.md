@@ -9,120 +9,26 @@ Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, th
 
 ---
 
-[Examples](https://github.com/escaperoombazz/Escape-to-Learn-Exploring-Non-linear-Puzzle-Based-Learning-in-Computing-Education/blob/main/ER%20examples/index.md)
-
 # 📅 Detailed Timeline and Workload
 
 ## Project Timeline
 
-<table>
-  <thead>
-    <tr>
-      <th>Timeline</th>
-      <th>event / actor</th>
-      <th>activity</th>
-      <th>outcome</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- 4th Sept 2025 -->
-    <tr>
-      <td rowspan="2"><strong>4th Sept 2025</strong></td>
-      <td><strong>start-up workshop (in-person)</strong><br/>project leads</td>
-      <td>present {rationale and aims, pedagogic theory, examples, RiPPA plan}<br/><br/>brainstorm potential interventions: study design, ethical considerations, target concepts, student levels, solo vs group, formats (e.g. formative, summative, in-class) etc.</td>
-      <td rowspan="2">awareness of project scope<br/><br/>initial ideas for interventions<br/><br/>ethical framework (rough)<br/><br/>sign-ups</td>
-    </tr>
-    <tr>
-      <td>participants <em>(1.15 hrs)</em></td>
-      <td></td>
-    </tr>
-
-    <!-- Sep 2025 -->
-    <tr>
-      <td rowspan="2"><strong>Sep 2025</strong></td>
-      <td><strong>follow-up (remote)</strong><br/>project leads</td>
-      <td>share collaborative repository; host example resources and literature; invite remote collaboration on survey instruments and educator reflection templates</td>
-      <td rowspan="2">shared access to tools and ideas<br/><br/>support flexible, context-sensitive adaptations<br/><br/>early-stage activity plans tailored to local context</td>
-    </tr>
-    <tr>
-      <td>project leads + participants</td>
-      <td>begin planning and designing their own puzzle-based activity</td>
-    </tr>
-
-    <!-- Early Oct 2025 -->
-    <tr>
-      <td><strong>Early Oct 2025</strong></td>
-      <td><strong>online group meeting 1</strong> <em>(1.5–2 hours)</em></td>
-      <td>peer pilot-testing in breakout rooms; finalise student questionnaire; finalise educator reflection log; ethics status updates</td>
-      <td>refined teaching activities plans; co-designed data collection instruments; peer feedback loop</td>
-    </tr>
-
-    <!-- Oct 2025 -->
-    <tr>
-      <td rowspan="2"><strong>Oct 2025</strong></td>
-      <td>follow-up (project leads)</td>
-      <td>share finalised survey instruments; confirm shared data collection procedures</td>
-      <td rowspan="2">ready-to-use materials for participants; almost ready-to-use activities for students</td>
-    </tr>
-    <tr>
-      <td>all participants</td>
-      <td>design puzzle-based activities; remote collaboration and support; ethics updates</td>
-    </tr>
-
-    <!-- Early Nov 2025 -->
-    <tr>
-      <td><strong>Early Nov 2025</strong></td>
-      <td><strong>online group meeting 2</strong> <em>(1.5–2 hours)</em></td>
-      <td>report on ethics approval; final troubleshooting before deployment</td>
-      <td>refined activities and deployment plan; final update of local ethics approval</td>
-    </tr>
-
-    <!-- Nov 2025 -->
-    <tr>
-      <td><strong>Nov 2025</strong></td>
-      <td>all participants</td>
-      <td>Final adjustments</td>
-      <td></td>
-    </tr>
-
-    <!-- Dec 2025 -->
-    <tr>
-      <td><strong>Dec 2025</strong></td>
-      <td><strong>online group meeting 3</strong> <em>(1.5–2 hours)</em></td>
-      <td>wrap up the term</td>
-      <td>finalised activities and deployment plan; clear timeline for implementation; final thoughts</td>
-    </tr>
-
-    <!-- Feb–Apr 2026 -->
-    <tr>
-      <td><strong>Feb – Apr 2026</strong></td>
-      <td>all participants</td>
-      <td>implement escape room/puzzle-based activities; collect student perception data, concept checks (if feasible), performance data (if linked to assessment); log reflections and challenges</td>
-      <td>local implementations documented; data collection aligned to shared framework</td>
-    </tr>
-
-    <!-- May–June 2026 -->
-    <tr>
-      <td rowspan="2"><strong>May – June 2026</strong></td>
-      <td><strong>online group meeting 4</strong> <em>(1.5–2 hours)</em></td>
-      <td>debrief session; share initial data insights; discuss publication pathways and authorship</td>
-      <td>collaborative planning for outputs</td>
-    </tr>
-    <tr>
-      <td>follow-up (project leads)</td>
-      <td>collate, clean, and centralise data; maintain shared data repository</td>
-      <td>dataset for cross-site analysis</td>
-    </tr>
-
-    <!-- June–Aug 2026 -->
-    <tr>
-      <td><strong>June – Aug 2026</strong></td>
-      <td>project leads + collaborators</td>
-      <td>draft collaborative paper/toolkit; iterate on drafts via shared overleaf</td>
-      <td>final output ready for dissemination (e.g. journal article, toolkit)</td>
-    </tr>
-  </tbody>
-</table>
+| Timeline        | Event / Actor                               | Activity                                                                                                  | Outcome                                                      |
+|-----------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **4th Sept 2025**| Start-up workshop (in-person) - Project leads | Present rationale and aims, pedagogic theory, examples, RiPPA plan. Brainstorm potential interventions: study design, ethical considerations, target concepts, student levels, solo vs group, formats (e.g., formative, summative, in-class) etc. | Awareness of project scope, initial ideas for interventions, ethical framework (rough), sign-ups |
+|                 | Participants (1.15 hrs)                     |                                                                                                           |                                                              |
+| **Sep 2025**    | Follow-up (remote) - Project leads          | Share collaborative repository; host example resources and literature; invite remote collaboration on survey instruments and educator reflection templates | Shared access to tools and ideas, support flexible, context-sensitive adaptations |
+|                 | Project leads + Participants               | Begin planning and designing their own puzzle-based activity                                                | Early-stage activity plans tailored to local context         |
+| **Early Oct 2025**| Online group meeting 1 (1.5–2 hours)       | Peer pilot-testing in breakout rooms; finalise student questionnaire; finalise educator reflection log; ethics status updates | Refined teaching activities plans, co-designed data collection instruments, peer feedback loop |
+| **Oct 2025**    | Follow-up (Project leads)                   | Share finalised survey instruments; confirm shared data collection procedures                              | Ready-to-use materials for participants, almost ready-to-use activities for students |
+|                 | All participants                           | Design puzzle-based activities; remote collaboration and support; ethics updates                          |                                                              |
+| **Early Nov 2025**| Online group meeting 2 (1.5–2 hours)       | Report on ethics approval; final troubleshooting before deployment                                          | Refined activities and deployment plan, final update of local ethics approval |
+| **Nov 2025**    | All participants                           | Final adjustments                                                                                          |                                                              |
+| **Dec 2025**    | Online group meeting 3 (1.5–2 hours)       | Wrap up the term                                                                                           | Finalised activities and deployment plan, clear timeline for implementation, final thoughts |
+| **Feb–Apr 2026**| All participants                           | Implement escape-room/puzzle-based activities; collect student perception data, concept checks (if feasible), performance data (if linked to assessment); log reflections and challenges | Local implementations documented, data collection aligned to shared framework |
+| **May–June 2026**| Online group meeting 4 (1.5–2 hours)       | Debrief session; share initial data insights; discuss publication pathways and authorship                    | Collaborative planning for outputs                         |
+|                 | Follow-up (Project leads)                   | Collate, clean, and centralise data; maintain shared data repository                                        | Dataset for cross-site analysis                             |
+| **June–Aug 2026**| Project leads + collaborators              | Draft collaborative paper/toolkit; iterate on drafts via shared Overleaf                                     | Final output ready for dissemination (e.g., journal article, toolkit) |
 
 ## 🕒 Workload Estimate
 
