@@ -58,6 +58,26 @@ Estimated **25–35 hours** across 9–12 months (may vary by pace and activitie
 
 ---
 
+## Research Protocol  
+
+For a detailed description of the study design, methodology, ethics, evaluation, and dissemination plans, please refer to our full protocol document:  
+
+➡️ [Research Protocol.docx](Research%20Protocol.docx)  
+
+This document includes:  
+- **Introduction and Rationale**: Why puzzle-based, non-linear learning is being explored in AI/ML education.  
+- **Research Questions**: Framing student engagement, conceptual understanding, and educator perspectives.  
+- **Study Design and Methodology**: Mixed-methods, multi-institutional approach with standardized course framework.  
+- **Ethical Framework**: Informed consent, confidentiality, GDPR compliance, and ethics approvals.  
+- **Evaluation Matrix**: Quantitative (pre/post tests, surveys) and qualitative (reflections, interviews) methods.  
+- **Data Analysis**: Statistical and thematic approaches to capture outcomes and challenges.  
+- **Dissemination**: Conference presentations, journal publications, and an open-access toolkit.  
+- **Project Management**: Collaboration across institutions with transparent coordination and resources.  
+
+This file serves as the **reference blueprint** for anyone looking to understand or replicate the project’s methodology.  
+
+---
+
 ## Literature and Studies on Puzzle-Based and Escape Room Learning
 
 This document lists relevant studies, articles, and resources related to puzzle-based learning, escape rooms in education, gamification, and non-linear pedagogies.  
