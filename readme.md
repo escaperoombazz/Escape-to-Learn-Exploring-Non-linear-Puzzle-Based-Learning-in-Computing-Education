@@ -80,7 +80,8 @@ This file serves as the **reference blueprint** for anyone looking to understand
 
 ## Literature and Studies on Puzzle-Based and Escape Room Learning
 
-This document lists relevant studies, articles, and resources related to puzzle-based learning, escape rooms in education, gamification, and non-linear pedagogies.  
+This document lists relevant studies, articles, and resources related to puzzle-based learning, escape rooms in education, gamification, and non-linear pedagogies. You can find the collected studies and references in the  
+➡️ [Literature folder](Literature/)
 
 ---
 - **2015** – [A mixed-methods exploration of an environment for learning computer programming](https://journal.alt.ac.uk/index.php/rlt/article/view/1667/pdf_16) – Gamified, programming  
