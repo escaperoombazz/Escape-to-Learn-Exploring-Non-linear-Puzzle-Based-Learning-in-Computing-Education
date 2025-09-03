@@ -155,4 +155,20 @@ For any questions, contact
 2. Marwan Mohammed - m.mohammed@abertay.ac.uk
 
 
+## Contributing  
+
+We welcome contributions from anyone interested in developing puzzle-based and escape-room style learning activities.  
+
+Before contributing, please review our collaboration guide:  
+➡️ [repository_team_guide.txt](repository_team_guide.txt)  
+
+This file explains:  
+- How to get access to the repo  
+- Setting up SSH keys  
+- Cloning the repository  
+- Configuring Git and syncing daily work  
+- How to handle merge conflicts  
+- Team rules for clear commit messages and coordination  
+
+Following this guide will ensure smooth collaboration across the team.
 
