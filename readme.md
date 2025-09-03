@@ -11,6 +11,8 @@ Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, th
 ---
 
 ## 📅 Project Activity Timeline
+This section includes the project activity and timeline of the project. For a detailed description of the study Activity Timeline, please refer to document: 
+➡️ [RiPPA plan (PDF)](RiPPA_docs_protocol/RiPPA%20plan.pdf)
 
 ### Work Packages  
 | Work Package | Description |
@@ -60,9 +62,8 @@ Estimated **25–35 hours** across 9–12 months (may vary by pace and activitie
 
 ## Research Protocol  
 
-For a detailed description of the study design, methodology, ethics, evaluation, and dissemination plans, please refer to our full protocol document:  
-
-➡️ [Research Protocol.docx](Research%20Protocol.docx)  
+For a detailed description of the study design, methodology, ethics, evaluation, and dissemination plans, please refer to our full protocol document: 
+➡️ [Research Protocol (PDF)](RiPPA_docs_protocol/Research_Protocol.pdf)
 
 This document includes:  
 - **Introduction and Rationale**: Why puzzle-based, non-linear learning is being explored in AI/ML education.  
