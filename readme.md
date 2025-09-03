@@ -60,6 +60,9 @@ Estimated **25–35 hours** across 9–12 months (may vary by pace and activitie
 | May–June 2026   | Online meeting 4 (debrief, outputs planning) | ~2 hrs        |
 | June–Aug 2026   | Contribute to collaborative paper/toolkit  | ~4–5 hrs       |
 
+**Core commitment (must-do):** ~20–25 hrs across one academic year  
+**Extended commitment (with co-authorship and toolkit work):** ~25–35 hrs  
+
 ---
 
 ## Research Protocol  
@@ -163,9 +166,6 @@ These were collated from the reference document [tools and resources.txt](Tools/
 #### On-Screen Timers (GIF)
 - [Timertopia](https://timertopia.wordpress.com/new-timers/)
 ---
-
-**Core commitment (must-do):** ~20–25 hrs across one academic year  
-**Extended commitment (with co-authorship and toolkit work):** ~25–35 hrs  
 
 # Sign Up and Complete Form
 
