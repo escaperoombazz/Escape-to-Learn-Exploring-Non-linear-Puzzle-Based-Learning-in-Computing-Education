@@ -8,6 +8,8 @@ This project explores a scalable alternative: non-linear, digital or hybrid esca
 
 Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, the activity builds on an initial implementation and brings educators together to co-develop, trial, and evaluate this approach. The group will share experiences, analyze data, and produce outputs to assess its pedagogical value. Findings may extend to broader computing education contexts. Thus, Exploring scalable, non-linear digital and hybrid escape room-inspired activities to enhance engagement in AI/ML education. This project investigates playful, puzzle-based formats to improve student experience and pedagogical depth in computing education.
 
+For more details, ref to [text](https://www.rippa.co.uk/escapetolearn?utm_source=chatgpt.com)
+
 ---
 
 ## 📅 Project Activity Timeline
