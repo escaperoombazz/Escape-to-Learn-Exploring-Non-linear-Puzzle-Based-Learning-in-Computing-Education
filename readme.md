@@ -74,7 +74,7 @@ This document includes:
 - **Dissemination**: Conference presentations, journal publications, and an open-access toolkit.  
 - **Project Management**: Collaboration across institutions with transparent coordination and resources.  
 
-This file serves as the **reference blueprint** for anyone looking to understand or replicate the project’s methodology.  
+This file serves as the **reference blueprint** for anyone looking to understand or contribute.  
 
 ---
 
