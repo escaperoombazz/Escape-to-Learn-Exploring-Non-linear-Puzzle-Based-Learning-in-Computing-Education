@@ -12,27 +12,13 @@ Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, th
 
 ## 📅 Project Activity Timeline
 
-### Work Packages
-
-**WP1. Initiation and Co-Design**
-- Launch workshop to present aims, theory, and examples.
-- Collaborative brainstorming of interventions, ethics, and formats.
-- Establish shared understanding and recruit participants.
-
-**WP2. Resource Development and Planning**
-- Set up shared repository with resources and literature.
-- Co-design of instruments (questionnaires, reflection logs).
-- Early planning of local puzzle/escape-room activities.
-
-**WP3. Implementation and Data Collection**
-- Local deployment of activities by participants.
-- Collection of student perception data, concept checks (if feasible), and educator reflections.
-
-**WP4. Analysis and Dissemination**
-- Collation and centralisation of data.
-- Cross-site analysis and shared debrief.
-- Collaborative writing of paper and toolkit.
-
+### Work Packages  
+| Work Package | Description |
+|--------------|-------------|
+| **WP1. Initiation and Co-Design** | - Launch workshop to present aims, theory, and examples.<br>- Collaborative brainstorming of interventions, ethics, and formats.<br>- Establish shared understanding and recruit participants. |
+| **WP2. Resource Development and Planning** | - Set up shared repository with resources and literature.<br>- Co-design of instruments (questionnaires, reflection logs).<br>- Early planning of local puzzle/escape-room activities. |
+| **WP3. Implementation and Data Collection** | - Local deployment of activities by participants.<br>- Collection of student perception data, concept checks (if feasible), and educator reflections. |
+| **WP4. Analysis and Dissemination** | - Collation and centralisation of data.<br>- Cross-site analysis and shared debrief.<br>- Collaborative writing of paper and toolkit. |
 
 ### Detailed Plan
 
@@ -53,9 +39,7 @@ Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, th
 |                 | Follow-up (Project leads)                   | Collate, clean, and centralise data; maintain shared data repository                                        | Dataset for cross-site analysis                             |
 | **June–Aug 2026**| Project leads + collaborators              | Draft collaborative paper/toolkit; iterate on drafts via shared Overleaf                                     | Final output ready for dissemination (e.g., journal article, toolkit) |
 
-
 ### Workload Estimate
-
 Estimated **25–35 hours** across 9–12 months (may vary by pace and activities).
 
 | Timeframe       | Activity (Participant role)               | Estimated Time |
@@ -74,17 +58,56 @@ Estimated **25–35 hours** across 9–12 months (may vary by pace and activitie
 
 ---
 
+## Literature and Studies on Puzzle-Based and Escape Room Learning
+
+This document lists relevant studies, articles, and resources related to puzzle-based learning, escape rooms in education, gamification, and non-linear pedagogies.  
+
+---
+- **2015** – [A mixed-methods exploration of an environment for learning computer programming](https://journal.alt.ac.uk/index.php/rlt/article/view/1667/pdf_16) – Gamified, programming  
+- **2015** – [Peeking Behind the Locked Door: A Survey of Escape Room Facilities](https://scottnicholson.com/pubs/erfacwhite.pdf) – Physical escape room benefits  
+- **2018** – [A Framework and Exploration of a Cybersecurity Education Escape Room](https://www.semanticscholar.org/paper/A-Framework-and-Exploration-of-a-Cybersecurity-Room-Snyder/740e0c70174f9e4d439a4d880742e5c59e8f2459) – Cybersecurity  
+- **2018** – [Non-Linear Pedagogical System Of University Teacher Training In The Information Society](https://www.europeanproceedings.com/article/10.15405/epsbs.2018.09.02.99) – Non-linear learning, teacher training, IT  
+- **2020** – [Unlocking Student Engagement: Educational Escape Room in Pharmacy](https://journals.sagepub.com/doi/10.1177/1046878119898509) – Pharmacy, HE  
+- **2020** – [Co-Designing Machine Learning Apps in K–12 With Primary School Children](https://ieeexplore.ieee.org/document/9156030) – Primary school  
+- **2020** – [Nonlinear pedagogy](https://link.springer.com/rwe/10.1007/978-981-13-2262-4_92-1) – Foundation of non-linear learning  
+- **2021** – [Escape Rooms in STEM Teaching and Learning—Literature Review](https://www.mdpi.com/2227-7102/11/6/308) – STEM review  
+- **2021** – [You can't Escape Learning, but Maybe you can get out of the room!](https://www.diva-portal.org/smash/get/diva2:1728363/FULLTEXT01.pdf) – Programming education  
+- **2022** – [Gamification Tools in Higher Education: Escape Room in Pharmacy](https://www.mdpi.com/2227-7102/12/11/833?utm) – Pharmacy  
+- **2022** – [You escaped! How did you learn during gameplay?](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13194) – Science (immunology, Grade 11)  
+- **2022** – [The Use of Immersive Tools in Higher Education: Escape Rooms](https://dl.acm.org/doi/fullHtml/10.1145/3578837.3578848) – Micro economics  
+- **2023** – [Gamification in Higher Education: Learning Computer Science with an Escape Room](https://dl.acm.org/doi/pdf/10.1145/3629296.3629308) – Computer Science  
+- **2023** – [Designing Educational Escape Rooms With Generative AI](https://cris.brighton.ac.uk/ws/portalfiles/portal/41940356/Fotaris_Mastoras_and_Lameras_024.pdf) – Framework & ChatGPT prompt engineering guide  
+- **2023** – [Puzzle game-based learning for coronary artery bypass graft surgery](https://link.springer.com/article/10.1186/s12909-023-04156-w) – Surgery  
+- **2024** – [Learning and Entertainment Technology Review: AI and Escape Room Technology](https://www.itm-conferences.org/articles/itmconf/pdf/2024/07/itmconf_icacs2024_01014.pdf) – AI-assisted escape rooms  
+- **2024** – [Exploring Educational Escape Room as an Assessment Tool for Computer Science](https://dl.acm.org/doi/10.1145/3649405.3659494) – Assessment framework  
+- **2024** – [An Educational Escape Room Game to Develop Cybersecurity Skills](https://www.mdpi.com/2073-431X/13/8/205) – Cybersecurity  
+- **2024** – [Learning Algorithms Concepts in a Virtual Reality Escape Room](https://ieeexplore.ieee.org/document/10569447) – Algorithms, VR game  
+- **2025** – [Designing Digital Escape Rooms with Generative AI in University Contexts](https://www.mdpi.com/2414-4088/9/3/20) – Students co-create escape rooms with AI  
+- **2025** – [Exploring a Digital Educational Escape Room Game for AI Literacy and Team Building](https://www.learntechlib.org/primary/p/225210/) – AI literacy, online  
+- [Unlocking the Potential of Puzzle-Based Learning (Sage)](https://uk.sagepub.com/en-gb/eur/unlocking-the-potential-of-puzzle-based-learning/book271877)
+- [Escape Room Design as a Game-Based Learning Process for STEAM Education (Brighton)](https://cris.brighton.ac.uk/ws/portalfiles/portal/7029238/Escape_Room_Design_as_a_Game_Based_Learning_Process_for_STEAM_Education_draft.pdf)
+- [Game-Based Learning Article (Sage Journals)](https://journals.sagepub.com/doi/abs/10.1177/1046878120953453?casa_token=qQlWv_G7_HwAAAAA%3Aa6quVFJDMGamZRfDKr2bMsrZ_hSfmcKD2LupQV5Hls3skeOLHIg3oH2Zgq5AuP1Jc5DBy23V5-6J_w)
+- [Jack Parkinson Publication (PDF)](https://jack-parkinson.com/static/files/publications/3680409.pdf)
+- [Research in Learning Technology – Escape Rooms](https://journal.alt.ac.uk/index.php/rlt/article/view/2035/2293)
+- [European Journal of E-Learning – Escape Rooms](https://academic-publishing.org/index.php/ejel/article/view/3182)
+- [Joy-Centered Pedagogy in Higher Education (Taylor & Francis)](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003532224/joy-centered-pedagogy-higher-education-eileen-kogl-camfield)
+- [The Great Escape: Escape Rooms for Learning and Teaching (Durham University)](https://dcad.webspace.durham.ac.uk/2021/03/19/the-great-escape-escape-rooms-for-learning-and-teaching/)
+
+---
+
+This list will continue to expand as more studies on puzzle-based and escape-room learning are identified.
+
+---
+
 ## Tools and Resources  
 The following tools, hubs, and examples support the design and implementation of puzzle-based and escape-room style educational activities.  
 These were collated from the reference document [tools and resources.txt](Tools/tools%20and%20resources.txt).
-
 ### Hubs / Conference / Groups
 - [Playful Learning and Virtual Escape Rooms (Teaching in Higher Ed Podcast)](https://teachinginhighered.com/podcast/playful-learning-and-virtual-escape-rooms/)
 - [Active Learning Resource Hub](https://activelearninggroup.wordpress.com/active-learning-resource-hub/)
 - [Islands of Innovation – University of Liverpool](https://www.liverpool.ac.uk/centre-for-innovation-in-education/conferences/islands-of-innovation/)
 - [Microsoft Sway Resource](https://sway.cloud.microsoft/dBH1eNA9SEIxoRig?ref=Link)
 - [Escape Rooms in Education Showcase (Heriot-Watt University)](https://lta.hw.ac.uk/escape-rooms-in-education-showcase/)
-
 ### Sample Escape Rooms
 - [Data Schools Escape Room](https://dataschools.education/escape/)
 - [Cyber Security Escape Room – University of Sussex](https://uofsussex.padlet.org/kpiatt5/1-cyber-security-escape-room-islands-of-innovation-cgtsabq7hb16i6rk)
@@ -95,32 +118,24 @@ These were collated from the reference document [tools and resources.txt](Tools/
 - [Because Play Matters – Escapeif (low-resource escape rooms)](https://www.becauseplaymatters.com/escapeif)
 - [Norovirus Escape (Example)](https://norovirus.wixstudio.com/norovirus-escape)
 - [Immergency Escape Room Provider](https://www.immergency.co/)
-
 ### Assignment Ideas
 - [Stanford Nifty Assignments](http://nifty.stanford.edu/)
-
 ### Some Tools
-
 #### Online Jigsaw Puzzle Creators
 - [Puzzel.org](https://puzzel.org/en)
 - [Jigsaw Planet](https://www.jigsawplanet.com/)
 - [Jigsaw Explorer](https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/)
-
 #### Morse Code Translators
 - [Morse Code Translator](https://morsecodetranslator.com/)
 - [Morse Code World](https://morsecode.world/international/translator.html)
-
 #### Digital Stories
 - [Genially](https://genially.com/)
-
 #### Open Source Online Resource Creator
 - [Xerte](https://xerte.org.uk/index.php/en/)
-
 #### Ciphers and Converters
 - [Caesar Cipher (dCode)](https://www.dcode.fr/caesar-cipher)
 - [Caesar Cipher (Cryptii)](https://cryptii.com/pipes/caesar-cipher)
-- [Binary to ASCII Converter](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
-
+- [Binary to ASCII Converter](https://www.rapidtables.com/convert/number/binary-to-ascii html)
 #### On-Screen Timers (GIF)
 - [Timertopia](https://timertopia.wordpress.com/new-timers/)
 ---
