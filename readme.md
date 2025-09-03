@@ -6,7 +6,7 @@ Escape room-inspired activities are gaining popularity in education due to their
 
 This project explores a scalable alternative: non-linear, digital or hybrid escape room designs embedded within teaching materials. It addresses student disengagement in higher education by investigating whether playful, puzzle-based formats can enhance engagement, enjoyment, and understanding.
 
-Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, the activity builds on an initial implementation and brings educators together to co-develop, trial, and evaluate this approach. The group will share experiences, analyze data, and produce outputs to assess its pedagogical value. Findings may extend to broader computing education contexts. Thus, Exploring scalable, non-linear digital and hybrid escape room-inspired activities to enhance engagement in AI/ML education. This project investigates playful, puzzle-based formats to improve student experience and pedagogical depth in computing education.
+Focusing on Artificial Intelligence (AI) and Machine Learning (ML) education, the activity builds on an initial implementation and brings educators together to co-develop, trial, and evaluate this approach. The group will share experiences, analyse data, and produce outputs to assess its pedagogical value. Findings may extend to broader computing education contexts. Thus, Exploring scalable, non-linear digital and hybrid escape room-inspired activities to enhance engagement in AI/ML education. This project investigates playful, puzzle-based formats to improve student experience and pedagogical depth in computing education.
 
 For more details, ref to [link](https://www.rippa.co.uk/escapetolearn?utm_source=chatgpt.com)
 
@@ -73,7 +73,7 @@ For a detailed description of the study design, methodology, ethics, evaluation,
 This document includes:  
 - **Introduction and Rationale**: Why puzzle-based, non-linear learning is being explored in AI/ML education.  
 - **Research Questions**: Framing student engagement, conceptual understanding, and educator perspectives.  
-- **Study Design and Methodology**: Mixed-methods, multi-institutional approach with standardized course framework.  
+- **Study Design and Methodology**: Mixed-methods, multi-institutional approach with standardised course framework.  
 - **Ethical Framework**: Informed consent, confidentiality, GDPR compliance, and ethics approvals.  
 - **Evaluation Matrix**: Quantitative (pre/post tests, surveys) and qualitative (reflections, interviews) methods.  
 - **Data Analysis**: Statistical and thematic approaches to capture outcomes and challenges.  
